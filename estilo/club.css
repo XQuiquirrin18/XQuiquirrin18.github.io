@@ -1,0 +1,45 @@
+.titulo{
+    text-align: center;
+    font-family: monospace;
+    font-size: 25px;
+    color: crimson;
+}
+#titulo2{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    color: aquamarine;
+}
+#texto1{
+    text-align: center;
+    font-size: 15px;
+    font-family: cursive;
+    color: burlywood;
+}
+#tabla{
+    width: 40%;
+    margin: 5%;
+    margin-top: 0%;
+    border: 30px;
+    float: left;
+}
+#club{
+   width: 40%;
+    margin: 5%;
+    margin-top: 6%;
+    border: 30px;
+    float: right;  
+}
+#logo2{
+    display: inline-block;
+    float: right;
+    width: 10%;
+    text-align: right;
+}
+#logo1{
+    float: left;
+    display: inline-block;
+    width: 10%;
+    float: left;
+    
+}

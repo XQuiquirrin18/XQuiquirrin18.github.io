@@ -1,0 +1,43 @@
+html{
+    background-color: cornsilk;
+}
+#titulo1{
+     display: inline-block;
+    float:inherit;
+    width: 95.6%;
+    border: outset;
+    text-align: center;
+    margin: 30px;
+    color: white;
+    background-color: darksalmon;
+}
+.titulo2{
+    font-size: 35px;
+    font-family: monospace;
+    color: white;
+    float: inherit;
+    border: outset;
+    background-color: blueviolet
+}
+#texto1{
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;  
+}
+.texto2{
+    text-align: center;
+    font-family: cursive;
+    font-size: 200%;
+    color: white;
+    border: outset;
+    width: 15%;
+    background-color: dodgerblue;
+    border-radius: 20px;
+    padding: 60px;
+    margin: 50px;
+    float: right
+}
+.img1{
+    float: inherit;
+    width: 20%;
+}

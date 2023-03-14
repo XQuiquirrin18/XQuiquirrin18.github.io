@@ -1,0 +1,89 @@
+#imagen1{
+    display: inline-block;
+    float: right;
+    width: 19%;
+    margin: 20px;
+    padding: 30px;
+}
+#imagen2{
+    display: inline-block;
+    float: center;
+    width: 19%;
+    border: inset;
+    margin: 20px;
+    padding: 16.5px;
+    margin-left: 12%;
+    border-color: black;
+}
+#imagen3{
+    display: inline-block;
+    float: left;
+    width: 19%;
+    margin: 20px;
+    padding: 30px;
+    padding-bottom: 7.69%;
+    padding-top: 5%;
+}
+#titulo1{
+    display: inline-block;
+    float:inherit;
+    width: 40%;
+    border: double;
+    text-align: center;
+    margin: 30px;
+    background-color: aqua;
+}
+#tit1{
+    text-align: center;
+    border: double;
+    width: 40%;
+    float: inherit;
+    display: inline-block;
+    margin: 30px;
+    background-color:aquamarine;
+    margin-left: 390px;
+    
+}
+#texto1{
+    text-align: center;
+    width: 100%;
+    float: inherit;
+    display: inline-block;
+    color:crimson;
+    word-spacing: 10px;
+    font-size: 20px;
+}
+#texto2{
+    text-align: center;
+    width: 100%;
+    float: inherit;
+    display: inline-block;
+    color: crimson;
+    word-spacing: 10px;
+    font-size: 20px;
+}
+#texto5{
+    display: inline-block;
+    float:right;
+    width: 40%;
+    border: outset;
+    text-align: center;
+    margin: 30px;
+    background-color:darkred;
+    color: white;
+    padding: 5px;
+    height: 20%;
+    border-radius: 100px;
+    margin-top: 14%;
+    margin-left: 5px;
+    font-size: 30px;
+}
+#imagen4{
+    float: left;
+    width: 80%;
+}
+#img6{
+    text-align: left;
+    width: 50%;
+    margin-right: 2%;
+}
